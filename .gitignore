@@ -1,0 +1,22 @@
+# SQLite Databases & Exports
+*.db
+*.sqlite3
+attendance.db
+rudmash_users.db
+*.csv
+*.log
+
+# Environment Files
+.env
+
+# Python Byte-compiled / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Editor & IDE Configs
+.vs/
+.vscode/
+.idea/
